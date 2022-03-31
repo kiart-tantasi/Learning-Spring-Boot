@@ -6,16 +6,15 @@ spring-boot-actuator/.gitignore
 spring-boot-actuator/mvnw
 spring-boot-actuator/mvnw.cmd
 
-spring-boot-crud-hibernate/.mvn
-spring-boot-crud-hibernate/src/test
-spring-boot-crud-hibernate/src/main/resources/application.properties
-spring-boot-crud-hibernate/.gitignore
-spring-boot-crud-hibernate/mvnw
-spring-boot-crud-hibernate/mvnw.cmd
+spring-boot-crud-native-hibernate/.mvn
+spring-boot-crud-native-hibernate/src/test
+spring-boot-crud-native-hibernate/src/main/resources/application.properties
+spring-boot-crud-native-hibernate/.gitignore
+spring-boot-crud-native-hibernate/mvnw
+spring-boot-crud-native-hibernate/mvnw.cmd
 
 spring-boot-mvnw-and-properties-file/.mvn
 spring-boot-mvnw-and-properties-file/src/test
 spring-boot-mvnw-and-properties-file/.gitignore
 spring-boot-mvnw-and-properties-file/mvnw
 spring-boot-mvnw-and-properties-file/mvnw.cmd
-
