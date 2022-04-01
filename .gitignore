@@ -13,6 +13,20 @@ spring-boot-crud-native-hibernate/.gitignore
 spring-boot-crud-native-hibernate/mvnw
 spring-boot-crud-native-hibernate/mvnw.cmd
 
+spring-boot-crud-jpa-api/.mvn
+spring-boot-crud-jpa-api/src/test
+spring-boot-crud-jpa-api/src/main/resources/application.properties
+spring-boot-crud-jpa-api/.gitignore
+spring-boot-crud-jpa-api/mvnw
+spring-boot-crud-jpa-api/mvnw.cmd
+
+spring-boot-crud-springdata-jpa/.mvn
+spring-boot-crud-springdata-jpa/src/test
+spring-boot-crud-springdata-jpa/src/main/resources/application.properties
+spring-boot-crud-springdata-jpa/.gitignore
+spring-boot-crud-springdata-jpa/mvnw
+spring-boot-crud-springdata-jpa/mvnw.cmd
+
 spring-boot-mvnw-and-properties-file/.mvn
 spring-boot-mvnw-and-properties-file/src/test
 spring-boot-mvnw-and-properties-file/.gitignore
