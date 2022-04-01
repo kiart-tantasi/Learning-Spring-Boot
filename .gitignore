@@ -27,6 +27,13 @@ spring-boot-crud-springdata-jpa/.gitignore
 spring-boot-crud-springdata-jpa/mvnw
 spring-boot-crud-springdata-jpa/mvnw.cmd
 
+spring-boot-crud-springdata-rest/.mvn
+spring-boot-crud-springdata-rest/src/test
+# spring-boot-crud-springdata-rest/src/main/resources/application.properties
+spring-boot-crud-springdata-rest/.gitignore
+spring-boot-crud-springdata-rest/mvnw
+spring-boot-crud-springdata-rest/mvnw.cmd
+
 spring-boot-mvnw-and-properties-file/.mvn
 spring-boot-mvnw-and-properties-file/src/test
 spring-boot-mvnw-and-properties-file/.gitignore

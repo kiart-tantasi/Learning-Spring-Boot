@@ -1,6 +1,6 @@
-package com.learning.demo.springbootcrudjpaapi.service;
+package com.learning.demo.springbootcrudspringdatajpa.service;
 
-import com.learning.demo.springbootcrudjpaapi.dao.Employee;
+import com.learning.demo.springbootcrudspringdatajpa.dao.Employee;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.learning.demo.springbootcrudjpaapi.dao;
+package com.learning.demo.springbootcrudspringdatajpa.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

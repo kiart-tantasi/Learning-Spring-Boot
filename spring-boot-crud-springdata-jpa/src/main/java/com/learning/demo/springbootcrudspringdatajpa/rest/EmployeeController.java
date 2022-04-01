@@ -1,7 +1,7 @@
-package com.learning.demo.springbootcrudjpaapi.rest;
+package com.learning.demo.springbootcrudspringdatajpa.rest;
 
-import com.learning.demo.springbootcrudjpaapi.dao.Employee;
-import com.learning.demo.springbootcrudjpaapi.service.EmployeeService;
+import com.learning.demo.springbootcrudspringdatajpa.dao.Employee;
+import com.learning.demo.springbootcrudspringdatajpa.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

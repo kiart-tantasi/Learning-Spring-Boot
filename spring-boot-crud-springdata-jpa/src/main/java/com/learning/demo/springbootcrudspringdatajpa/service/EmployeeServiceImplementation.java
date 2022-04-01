@@ -1,7 +1,7 @@
-package com.learning.demo.springbootcrudjpaapi.service;
+package com.learning.demo.springbootcrudspringdatajpa.service;
 
-import com.learning.demo.springbootcrudjpaapi.dao.Employee;
-import com.learning.demo.springbootcrudjpaapi.dao.EmployeeRepository;
+import com.learning.demo.springbootcrudspringdatajpa.dao.Employee;
+import com.learning.demo.springbootcrudspringdatajpa.dao.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
