@@ -5,5 +5,6 @@ import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 import org.springframework.stereotype.Repository;
 
 //@RepositoryRestResource(path="myownendpoints")
+@Repository
 public interface EmployeeRepository extends JpaRepository<Employee, Integer> {
 }
